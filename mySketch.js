@@ -14,7 +14,7 @@ const vSpace = 10;
 const precision = 1;
 
 function preload(){
-  img = loadImage("photo_vertical.jpg");
+  img = loadImage("v1.png");
 }
 
 function setup() {

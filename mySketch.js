@@ -14,7 +14,7 @@ const vSpace = 10;
 const precision = 1;
 
 function preload(){
-  img = loadImage("v2.png");
+  img = loadImage("ru27.png");
 }
 
 function setup() {

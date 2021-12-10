@@ -14,7 +14,7 @@ const vSpace = 10;
 const precision = 1;
 
 function preload(){
-  img = loadImage("v1.png");
+  img = loadImage("v2.png");
 }
 
 function setup() {
